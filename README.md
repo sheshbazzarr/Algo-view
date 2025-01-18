@@ -38,4 +38,4 @@ This project would not have been possible without the contributions of the follo
 
 ## Contact
 
-If you have any questions, suggestions, or feedback, please don't hesitate to contact us at [contact email or form].
+If you have any questions, suggestions, or feedback, please don't hesitate to contact us at sheshbazzar777@gmail.com.
