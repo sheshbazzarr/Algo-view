@@ -1,0 +1,18 @@
+/* src/styles/bubbleSort.css */
+.bubble-sort-container {
+    text-align: center;
+    margin: 20px;
+  }
+  
+  .bubble-sort-button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .bubble-sort-button:hover {
+    background-color: #45a049;
+  }
+  

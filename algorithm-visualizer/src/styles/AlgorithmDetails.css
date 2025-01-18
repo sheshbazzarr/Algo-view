@@ -1,0 +1,12 @@
+/* src/components/AlgorithmVisualizer.css */
+.container {
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.algorithm-info {
+  font-size: 18px;
+  font-weight: bold;
+}

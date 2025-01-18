@@ -1,0 +1,29 @@
+.visualizer {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  button {
+    margin: 5px;
+    padding: 10px 15px;
+    font-size: 1rem;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .array-container {
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    height: 300px;
+    margin-top: 20px;
+    border: 1px solid #ddd;
+  }
+  
+  .array-bar {
+    width: 20px;
+    margin: 0 2px;
+    background-color: #61dafb;
+  }
+  

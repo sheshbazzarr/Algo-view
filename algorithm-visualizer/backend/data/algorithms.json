@@ -1,0 +1,23 @@
+[
+    {
+      "id": 1,
+      "name": "Bubble Sort",
+      "description": "A simple sorting algorithm that repeatedly steps through the list...",
+      "implementations": {
+        "javascript": "function bubbleSort(arr) { /* Code here */ }",
+        "python": "def bubble_sort(arr): # Code here",
+        "c": "void bubbleSort(int arr[], int n) { /* Code here */ }"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Quick Sort",
+      "description": "An efficient, divide-and-conquer sorting algorithm...",
+      "implementations": {
+        "javascript": "function quickSort(arr) { /* Code here */ }",
+        "python": "def quick_sort(arr): # Code here",
+        "c": "void quickSort(int arr[], int low, int high) { /* Code here */ }"
+      }
+    }
+  ]
+  

@@ -1,0 +1,18 @@
+/* src/styles/quickSort.css */
+.quick-sort-container {
+    text-align: center;
+    margin: 20px;
+  }
+  
+  .quick-sort-button {
+    background-color: #f44336;
+    color: white;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .quick-sort-button:hover {
+    background-color: #da190b;
+  }
+  
